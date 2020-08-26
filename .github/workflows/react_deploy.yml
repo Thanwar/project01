@@ -43,4 +43,4 @@ jobs:
     - name: install surge
       run: npm install -g surge
     - name: run surge
-      run: surge ./ thanwar-react1.surge.sh --token ${{secrets.SURGE_TOKEN}}
+      run: surge ./build thanwar-react1.surge.sh --token ${{secrets.SURGE_TOKEN}}
