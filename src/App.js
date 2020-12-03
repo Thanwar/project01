@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <h1>Hello World</h1>
-          <h2>updated by workflow</h2>
+          <h2>updated by workflow2.o</h2>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
